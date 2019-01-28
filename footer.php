@@ -59,7 +59,7 @@
 							De segunda à sexta-feira
 						</li>
 					</ul>
-					<--!<h4 class="txt13 m-b-38">
+					<!--<h4 class="txt13 m-b-38">
 						Galeria de Imagens
 					</h4>
 
@@ -112,7 +112,8 @@
 						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-12.jpg" data-lightbox="gallery-footer">
 							<img src="images/photo-gallery-thumb-12.jpg" alt="GALLERY">
 						</a>
-					</div>-->-->
+					</div>-->
+					-->
 
 				</div>
 			</div>
