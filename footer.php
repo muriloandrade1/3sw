@@ -37,7 +37,7 @@
 							e-mail: jwilson@3sw.com.br
 						</li>
 						<li class="txt14 m-b-14">
-							<i class="fa fa-mail fs-16 dis-inline-block size19" aria-hidden="true"></i>
+							<i class="fa fa-email fs-16 dis-inline-block size19" aria-hidden="true"></i>
 							e-mail: jwilson@3sw.com.br
 						</li>
 						<li class="txt14 m-b-14">
