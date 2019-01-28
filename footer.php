@@ -24,21 +24,6 @@
                                                         <a href="images/cartao.jpg">Baixe nosso cartão</a>
 						</li>
 					</ul>
-
-
-					<h4 class="txt13 m-b-32">
-						Horário de Funcionamento
-					</h4>
-
-					<ul>
-						<li class="txt14">
-							09:30 AM – 18:00 PM
-						</li>
-
-						<li class="txt14">
-							De segunda à sexta-feira
-						</li>
-					</ul>
 				</div>
 				<div class="col-sm-6 col-md-4 p-t-50">
 					<h4 class="txt13 m-b-33">
@@ -61,7 +46,20 @@
 
 				<div class="col-sm-6 col-md-4 p-t-50">
 					<!-- - -->
-					<h4 class="txt13 m-b-38">
+					<h4 class="txt13 m-b-32">
+						Horário de Funcionamento
+					</h4>
+
+					<ul>
+						<li class="txt14">
+							09:30 AM – 18:00 PM
+						</li>
+
+						<li class="txt14">
+							De segunda à sexta-feira
+						</li>
+					</ul>
+					<--!<h4 class="txt13 m-b-38">
 						Galeria de Imagens
 					</h4>
 
@@ -114,7 +112,7 @@
 						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-12.jpg" data-lightbox="gallery-footer">
 							<img src="images/photo-gallery-thumb-12.jpg" alt="GALLERY">
 						</a>
-					</div>
+					</div>-->
 
 				</div>
 			</div>
