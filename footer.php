@@ -21,11 +21,11 @@
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-download fs-16 dis-inline-block size19" aria-hidden="true"></i>
-                                                        <a href="Portifolio.pdf">Download de nosso Portifólio</a>
+                                                        <a href="images/cartao.jpg">Baixe nosso cartão</a>
 						</li>
 					</ul>
 
-					<!-- - 
+
 					<h4 class="txt13 m-b-32">
 						Horário de Funcionamento
 					</h4>
@@ -38,7 +38,7 @@
 						<li class="txt14">
 							De segunda à sexta-feira
 						</li>
-					</ul>-->
+					</ul>
 				</div>
 				<div class="col-sm-6 col-md-4 p-t-50">
 					<h4 class="txt13 m-b-33">
@@ -124,13 +124,13 @@
 			<div class="container">
 				<div class="flex-sb-m flex-w p-t-22 p-b-22">
 					<div class="p-t-5 p-b-5">
-						<!--<a href="#" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
-						<a href="https://www.facebook.com/Primeair-Pintura-Aeronáutica-e-Design-2227021250862939/" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+						<a href="#" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						<a href="#" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
 						<!--<a href="#" class="fs-15 c-white"><i class="fa fa-twitter m-l-18" aria-hidden="true"></i></a>-->
 					</div>
 
 					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						PrimeAir - Design e Pintura Aeronáutica &copy; 2018 |  Todos os Direitos Reservados
+						3SW - &copy; 2019 |  Todos os Direitos Reservados
 					</div>
 				</div>
 			</div>
