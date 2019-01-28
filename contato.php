@@ -85,7 +85,7 @@
 							</span>
 
 							<span class="txt23 size38">
-								Luzaiânia - GO
+								SCRN 712/713 BL.F EN 51. LJ 55 BRASÍLIA - DF
 							</span>
 						</div>
 					</div>
