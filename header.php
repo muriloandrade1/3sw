@@ -72,12 +72,16 @@ $msg=0;
 									<a href="about.php">Quem Somos</a>
 								</li>
 
-                                                                <li>
-                                                                    <a href="servicos.php">Nossos Serviços</a>
+                                <li>
+                                    <a href="servicos.php">Nossos Serviços</a>
 								</li>
 
 								<li>
 									<a href="gallery.php">Galeria de Imagens</a>
+								</li>
+
+								<li>
+                                    <a href="parceiros.php">Parceiros</a>
 								</li>
 
 								<li>
