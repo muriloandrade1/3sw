@@ -33,13 +33,13 @@
                                             <ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							61- 9 99937 2601
-							<i class="fa  mail fs-16 dis-inline-block size19" aria-hidden="true"></i>
+							61- 9 99937 2601 <br>
 							e-mail: jwilson@3sw.com.br
 						</li>
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							61- 9 99238 9546  e-mail:everson.costa@3sw.com.br
+							61- 9 99238 9546 <br>
+							e-mail:everson.costa@3sw.com.br
 						</li>
                                                 
                                             </ul>
