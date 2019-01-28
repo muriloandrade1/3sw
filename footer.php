@@ -48,11 +48,11 @@
                                             <ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							Edson Lopes 61- 9 9556 7890
+							jwilson@3sw.com.br 61- 9 99937 2601
 						</li>
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							Wellington 61- 9 9627 1017
+							everson.costa@3sw.com.br 61- 9 99238 9546
 						</li>
                                                 
                                             </ul>
