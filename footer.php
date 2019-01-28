@@ -63,7 +63,7 @@
 						Galeria de Imagens
 					</h4>
 
-					<!-- Gallery footer -->
+					<!-- Gallery footer
 					<div class="wrap-gallery-footer flex-w">
 						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-01.jpg" data-lightbox="gallery-footer">
 							<img src="images/photo-gallery-thumb-01.jpg" alt="GALLERY">
@@ -112,7 +112,7 @@
 						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-12.jpg" data-lightbox="gallery-footer">
 							<img src="images/photo-gallery-thumb-12.jpg" alt="GALLERY">
 						</a>
-					</div>-->
+					</div>-->-->
 
 				</div>
 			</div>
