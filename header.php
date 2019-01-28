@@ -73,11 +73,11 @@ $msg=0;
 								</li>
 
                                 <li>
-                                    <a href="servicos.php">Nossos Serviços</a>
+                                    <a href="servicos.php">Serviços</a>
 								</li>
 
 								<li>
-									<a href="gallery.php">Galeria de Imagens</a>
+									<a href="gallery.php">Portifólio</a>
 								</li>
 
 								<li>
@@ -121,11 +121,11 @@ $msg=0;
 			</li>
 
                         <li class="t-center m-b-13">
-				<a href="servicos.php" class="txt19">Nossos Serviços</a>
+				<a href="servicos.php" class="txt19">Serviços</a>
 			</li>
                         
 			<li class="t-center m-b-13">
-				<a href="gallery.php" class="txt19">Galeria de Imagens</a>
+				<a href="gallery.php" class="txt19">Portifólio</a>
 			</li>
 
 			<li class="t-center m-b-13">
