@@ -100,7 +100,7 @@
 
 						<div class="flex-col-l">
 							<span class="txt5 p-b-10">
-								Telefone
+								Nossos Telefones
 							</span>
 
 							<span class="txt23 sizefull">
@@ -110,24 +110,6 @@
 					</div>
 				</div>
 
-				<!--<div class="col-sm-8 col-md-5 col-lg-4 m-l-r-auto p-t-30">
-					<div class="dis-flex m-l-23">
-						<div class="p-r-40 p-t-6">
-							<img src="images/icons/clock-icon.png" alt="IMG-ICON">
-						</div>
-
-
-						<div class="flex-col-l">
-							<span class="txt5 p-b-10">
-								Horário de funiconamento
-							</span>
-
-							<span class="txt23 size38">
-								09:30 AM – 18:00 PM <br/>Segunda à Sexta-feira
-							</span>
-						</div>
-					</div>
-				</div>-->
 			</div>
 		</div>
 	</section>
