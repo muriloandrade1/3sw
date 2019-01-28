@@ -21,7 +21,7 @@
                                     <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
 							<!-- Button1 -->
-							<a href="#" <img src="images/3.jpeg" alt="IMG-GALLERY">
+							<a href="#" <img src="images/3.jpg" alt="">>
 
 							</a>
 						</div>
