@@ -84,7 +84,7 @@
 								Nossa Localização
 							</span>
 
-							<span class="txt23 size38">
+							<span class="txt23 sizefull">
 								SCRN 712/713 BL.F EN 51. LJ 55 BRASÍLIA - DF
 							</span>
 						</div>
@@ -103,8 +103,8 @@
 								Telefone
 							</span>
 
-							<span class="txt23 size38">
-								(+55) 61- 3546 2948, (+55) 61 61- 9 99937 2601 e/ou (+55) 61- 9 99238 9546
+							<span class="txt23 sizefull">
+								(+55) 61- 3546 2948, (+55) 61- 9 99937 2601 e/ou (+55) 61- 9 99238 9546
 							</span>
 						</div>
 					</div>
