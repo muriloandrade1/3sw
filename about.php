@@ -15,7 +15,7 @@
                 <br>
                 <br>
             	<p class="t-center size32 m-l-r-auto">
-			A PRIME AIR, emrepesa genuinamente brasileira, especilizada em Design & Pintura aeronáutica, formada por profissionais com décadas de exeperiência, utiliza os mais modernos e atuais produtos e processos, para proteção (principalmente) e a personalização de aeronaves executivas.
+			A 3SW, emrepesa genuinamente brasileira, especilizada em Design & Pintura aeronáutica, formada por profissionais com décadas de exeperiência, utiliza os mais modernos e atuais produtos e processos, para proteção (principalmente) e a personalização de aeronaves executivas.
                 </p>
                 <br>
                 <br>
