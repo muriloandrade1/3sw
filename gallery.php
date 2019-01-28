@@ -1,7 +1,7 @@
 <?php include'header.php';?>
 
 	<!-- Title Page -->
-	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-06.jpg);">
+	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-images);">
 		<!--<h2 class="tit6 t-center">
 			GALERIA DE IMAGENS
 		</h2>-->
