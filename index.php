@@ -7,25 +7,21 @@
 				<div class="item-slick1 item3-slick1" style="background-image: url(images/master-slides-01.jpg);">
                                     <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
                                         <span class="caption1-slide1 txt13 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-							Administração de Serviços em Condomínios e Empresas
-						</span>
-
-						
-
+             							Administração de Serviços em Condomínios e Empresas
+			                			</span>
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
 							<!-- Button1 -->
 							<a href="#" class="btn1 flex-c-m size1 txt3 trans-0-4">
 								Conheça
 							</a>
 						</div>
-                                    </div>
+                        </div>
                         	</div>
                                 <div class="item-slick1 item3-slick1" style="background-image: url(images/master-slides-02.jpg);">
                                     <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
 							<!-- Button1 -->
-							<a href="#" class="btn1 flex-c-m size1 txt3 trans-0-4">
+							<a href="#" style="background-image: url(images/3.jpeg);">
 								Conheça
 							</a>
 						</div>
