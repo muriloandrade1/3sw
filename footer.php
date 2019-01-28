@@ -39,7 +39,7 @@
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
 							61- 9 99238 9546 <br>
-							e-mail:everson.costa@3sw.com.br
+							e-mail:<a href:"everson.costa@3sw.com.br">everson.costa@3sw.com.br</a>
 						</li>
                                                 
                                             </ul>
