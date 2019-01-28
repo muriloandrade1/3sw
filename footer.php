@@ -27,17 +27,19 @@
 				</div>
 				<div class="col-sm-6 col-md-4 p-t-50">
 					<h4 class="txt13 m-b-33">
-						Contatos WhatsApp 
+						Contatos
 					</h4>
 
                                             <ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							jwilson@3sw.com.br 61- 9 99937 2601
+							61- 9 99937 2601
+							<i class="fa  fa-mail fs-16 dis-inline-block size19" aria-hidden="true"></i>
+							e-mail: jwilson@3sw.com.br
 						</li>
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							everson.costa@3sw.com.br 61- 9 99238 9546
+							61- 9 99238 9546  e-mail:everson.costa@3sw.com.br
 						</li>
                                                 
                                             </ul>
