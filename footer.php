@@ -34,7 +34,7 @@
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
 							61- 9 99937 2601 <br>
-							e-mail: jwilson@3sw.com.br
+							e-mail: <a href="jwilson@3sw.com.br">jwilson@3sw.com.br</a>
 						</li>
 						<li class="txt14 m-b-14">
 							<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
